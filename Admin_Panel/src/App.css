@@ -1,0 +1,88 @@
+/* Navbar */
+
+.navbar{
+    height: 50px;
+    background-color: rgba(209, 45, 108, 0.945);
+}
+
+.ic{
+    height: 40px;
+    width: 40px;
+    color: white;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+.logo{
+    height: 50px;
+    width: 150px;
+    margin-left: 30px;
+}
+
+.offcanva{
+    text-decoration: none !important;
+    width: 20% !important;
+}
+
+
+
+/* order Model */
+
+.modelimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.navlinks .sidelink{
+    text-decoration: none !important;
+    margin-top: 15px;
+    color: black;
+    font-size: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    cursor: pointer;
+    display: inline-block;
+    padding-left: 15px;
+}
+
+.navlinks .sidelink:hover{
+    border-radius: 15px;
+    background-color: rgba(209, 45, 108, 0.945);
+    width: 220px;
+    color: white;
+    padding-left: 15px;
+}
+
+/* Dashboard */
+.DashBoard_Container {
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.DashBoard_Container h5{
+    font-weight: 600;
+    font-size: 25px;
+}
+ 
+.Dashboard_Card {
+    background-color: #f4ffc7;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 25px;
+  
+}
+ 
+ 
+.Dashboard_second_Container h5{
+  padding-bottom: 10px;
+  font-weight: 600;
+    
+}
+ 
+.DashBoard_Table{
+ width: 350px;
+ margin-left: 10px;
+}

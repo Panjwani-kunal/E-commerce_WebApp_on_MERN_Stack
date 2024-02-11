@@ -1,0 +1,45 @@
+
+AdminPanelold/
+API/
+img/
+Server/
+
+node_modules/
+Admin_Panel/node_modules/
+Client_Side/node_modules/
+Server_Side/node_modules/
+
+#Zip files
+*.zip
+
+# Logs
+logs
+*.log
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE or editor files
+.vscode/
+*.code-workspace
+
+# Package-lock.json and yarn lockfile
+package-lock.json
+yarn.lock
+
+# IDE configuration
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Temporary files
+*.tmp
